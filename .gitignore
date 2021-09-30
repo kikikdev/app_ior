@@ -1,0 +1,5 @@
+uploads/*
+uploads_/*
+application/cache/*
+application/config/*
+
